@@ -2,8 +2,8 @@
 
 import { useState, useRef, useEffect } from "react"
 import { useRouter, usePathname } from "next/navigation"
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
+import { Button } from "../components/ui/button"
+import { Input } from "../components/ui/input"
 import {
   Search,
   Bell,

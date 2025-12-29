@@ -3,10 +3,10 @@
 import { useState } from "react"
 import Link from "next/link"
 import Image from "next/image"
-import { Button } from "@/components/ui/button"
-import { Card, CardContent } from "@/components/ui/card"
-import { Input } from "@/components/ui/input"
-import { Textarea } from "@/components/ui/textarea"
+import { Button } from "../components/ui/button"
+import { Card, CardContent } from "../components/ui/card"
+import { Input } from "../components/ui/input"
+import { Textarea } from "../components/ui/textarea"
 import { Check, Globe, ArrowRight, Zap, ChevronLeft, ChevronRight } from "lucide-react"
 
 export default function LandingPage() {
